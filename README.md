@@ -1,6 +1,6 @@
 # rss-habr-rust-posts-cli
 
-A tiny CLI to get the latest Rust posts from https://habr.com/hub/rust/ via RSS
+A tiny CLI to get the latest Rust-related posts from https://habr.com/hub/rust/ via RSS
 
 ## Preparations
 
